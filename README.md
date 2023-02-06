@@ -1,4 +1,4 @@
-# bmi_calculator
+# AppBar
 
 A new Flutter project.
 
